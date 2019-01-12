@@ -1,0 +1,56 @@
+/*General Styling*/
+
+img {
+max-width: 100%;
+
+}
+
+Body{
+font-family: "Lucida Console", monospace;
+font-size: 14px;
+color: grey;
+border-style: double;
+border-color: maroon;
+margin: 20px;
+padding: 5%;
+}
+
+h1{
+font-weight: bold;
+color: black;
+text-align: center;
+text-transform: uppercase;
+}
+
+h2{
+color: teal;
+text-align: center;
+}
+
+div.link{
+text-align: center;
+}
+
+p{
+text-align: left;
+}
+
+.link{
+font-weight: bold;
+text-transform: uppercase;
+}
+
+/*Index File*/
+.Philip{
+max-width: 20%;
+border-radius: 25px;
+display: block;
+margin: 0 auto;
+}
+
+/*Page 2*/
+.video{
+display: block;
+margin: 0 auto;}
+
+
